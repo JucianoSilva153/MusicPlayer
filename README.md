@@ -1,7 +1,25 @@
-# j_player
-Um reprodutor de música usando C#!! Tudo apenas para fins de estudo e aprendizado sobre a Linguagem C#!
+# 🚀 Reprodutor de Música
+Um simples Reproduor de Musica.
 
-# Features
-- Uso da lib do Windows Media Player para a Reprodução do Audio
-- UI interativa
-- Busca de músicas fácil e rápido apartir de uma ComboBox e OpenFileDialog
+## 📝 Descrição do Projeto
+
+Um reprodutor de música que tem funções como:
+  - Trocar Música
+  - Pausar Música
+  - Escolher Músicas
+  - Aumentar e Diminuir Volume
+
+## 💻 Tecnologias
+
+- Lista de tecnologias utilizadas no projeto, por exemplo:
+  - C# / WinForm
+  - TagLib-SHarp
+  - WMPLib (Lib do Windows Media Player)
+
+## 🖼️ Imagens do Projeto
+
+
+![Captura de Tela 1](https://github.com/JucianoSilva153/MusicPlayer/blob/main/ScreenShots/J-Player%2002_12_2023%2012_32_26.png?raw=true)
+![Captura de Tela 2](https://github.com/JucianoSilva153/MusicPlayer/blob/main/ScreenShots/J-Player%2002_12_2023%2012_33_25.png?raw=true)
+![Captura de Tela 2](https://github.com/JucianoSilva153/MusicPlayer/blob/main/ScreenShots/J-Player%2002_12_2023%2012_34_38.png?raw=true)
+
